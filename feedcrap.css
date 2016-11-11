@@ -10,6 +10,8 @@
 	border: 3px solid #708090;
 	padding: 10px;
 	display: inline-block;
+
+	border-radius: 15px;
 }
 #what {
 	font-variant: small-caps;
@@ -23,7 +25,10 @@
 	display: flex;
 	justify-content: center;
 
-	background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+	border-radius: 25px;
+	box-shadow: 1px 1px 3px #888888;
+
+	background: linear-gradient(141deg, #A8201A 0%, #28190E 71%, #EC9A29 99%);
 	color:white;
 	opacity:0.95;
 }
@@ -36,5 +41,5 @@ dt {
 	list-style-type: disc;
 }
 body {
-	background-color: #CFD8DC;
+	background-color: #D6D2D2;
 }
