@@ -1,1 +1,9 @@
-[{"id" : "1", "name" : "Shankar", "address": "address 1"},{"id" : "2", "name" : "Jaikishan", "address": "address 2"},{"id" : "3", "name" : "Abbas", "address": "address 3"},{"id" : "4", "name" : "Mustan", "address": "address 4"},{"id" : "5", "name" : "Laxmikant", "address": "address 5"},{"id" : "6", "name" : "Pyarelal", "address": "address 6"}]
+{
+	"theater" : "PVR Juhu",
+	"region" : "Juhu",
+	"city" : "Mumbai",
+	"partner" : "PVR",
+	"movie" : "Doctor Strange",
+	"seat" : "P5",
+	"screen" : "Audi 5"
+}
